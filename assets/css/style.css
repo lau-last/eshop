@@ -1,0 +1,21 @@
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+* {
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+}
+
+.couleur_icone {
+    color: #6610f2;
+}
+.bg-indigo {
+    background: linear-gradient(90deg, #6610f2, #f210a7);
+}
+.li_flex{
+    display: flex;
+    justify-content: space-between;
+}
